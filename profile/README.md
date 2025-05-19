@@ -29,9 +29,10 @@ För att driva transformationen har vi skapat en agil organisation med ett delvi
 
 # Hur kommer du igång?
 
-Om du vill komma igång är en bra startpunkt att ladda ner följande repos och köra igång:
+Om du vill komma igång är du välkommen att kontakta någon av följande:
 
-[TODO: add start instructions here]
+david.lindblom@mimer.nu - Produktägare ONECore Mimer
+lina.karfalk@mimer.nu - Projektledare ONECore Mimer
 
 # Github repos
 
