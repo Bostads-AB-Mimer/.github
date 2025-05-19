@@ -13,7 +13,8 @@ I centrum för vår digitala transformation står en tydlig målbild. Vi vill mi
 
 Kärnan i vår digitala strategi är OneCore, en modulär digital infrastruktur baserad på öppen källkod och öppna API:er. En viktig slutsats efter den initiala analysen är att alla medarbetare är trötta på att behöva logga in i många system för att få enkla svar. Istället för att byta till ett nytt system som riskerar att bli ytterligare ett system bredvid alla tidigare, är nu visionen att all information ska gå att nå genom ett samlat API. Under detta API ryms sedan alla befintliga och nya system som utgörs av s.k. förmågor. Detta skapar en snabbrörlighet för användare och säkerställer samtidigt en enkel väg att byta ut delar av systemet successivt och en tydlighet gällande informationssäkerhet och organisatoriskt ansvar.
 
-<img width="1131" alt="image" src="https://github.com/Bostads-AB-Mimer/.github/assets/395843/14b1b6b3-7003-43aa-aef3-08a39d83348f">
+![bild](https://github.com/user-attachments/assets/ecee26b0-9b12-45c9-adeb-f6408f696bf1)
+
 
 # Den öppna inköpsprocessen
 
