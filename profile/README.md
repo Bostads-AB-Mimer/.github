@@ -7,7 +7,7 @@ Vi på Mimer, det kommunala bostadsbolaget i Västerås, har påbörjat en digit
 
 I centrum för vår digitala transformation står en tydlig målbild. Vi vill minska administrationen för att kunna fokusera mer på hyresgästerna. Genom att äga och kontrollera vår data kan vi fatta bättre beslut och agera proaktivt. Automatiserade processflöden säkerställer effektiv ärendehantering utan manuella mellansteg. Transformationen öppnar också upp för nya affärsmöjligheter och sätt att möta marknadens förväntningar på kringtjänster kopplade till boendet. Med en gemensam riktning och självledarskap siktar vi på att stärka vårt varumärke och bli en ännu mer attraktiv arbetsgivare.
 
-<img width="1284" alt="image" src="https://github.com/Bostads-AB-Mimer/.github/assets/395843/338a7aa7-1756-4807-b2b8-c591e57c5588">
+![bild (1)](https://github.com/user-attachments/assets/525fbe37-8621-461e-bbc9-a6a82e234532)
 
 # OneCore - navet i den digitala strategin
 
