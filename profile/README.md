@@ -1,4 +1,4 @@
-![OneCore Logo]([https://github.com/user-attachments/assets/525fbe37-8621-461e-bbc9-a6a82e234532](https://raw.githubusercontent.com/Bostads-AB-Mimer/onecore/4eb237e2399bf726bb261ed8d23d22fa1eb616ce/apps/property-tree/src/components/assets/logos/onecore_logo.svg))
+![OneCore Logo]([https://raw.githubusercontent.com/Bostads-AB-Mimer/onecore/4eb237e2399bf726bb261ed8d23d22fa1eb616ce/apps/property-tree/src/components/assets/logos/onecore_logo.svg](https://raw.githubusercontent.com/Bostads-AB-Mimer/onecore/4eb237e2399bf726bb261ed8d23d22fa1eb616ce/apps/property-tree/src/components/assets/logos/onecore_logo.svg))
 
 Mimers öppna innovationsstrategi
 ===
