@@ -1,3 +1,5 @@
+![OneCore Logo]([https://github.com/user-attachments/assets/525fbe37-8621-461e-bbc9-a6a82e234532](https://raw.githubusercontent.com/Bostads-AB-Mimer/onecore/4eb237e2399bf726bb261ed8d23d22fa1eb616ce/apps/property-tree/src/components/assets/logos/onecore_logo.svg))
+
 Mimers öppna innovationsstrategi
 ===
 
@@ -7,14 +9,14 @@ Vi på Mimer genomgår sedan några år en digital transformation där vi går f
 
 I centrum för vår digitala transformation står en tydlig målbild. Vi vill minska administrationen för att kunna fokusera mer på hyresgästerna. Genom att äga och kontrollera vår data kan vi fatta bättre beslut och agera proaktivt. Automatiserade processflöden säkerställer effektiv ärendehantering utan manuella mellansteg. Transformationen öppnar också upp för nya affärsmöjligheter och sätt att möta marknadens förväntningar på kringtjänster kopplade till boendet. Med en gemensam riktning och självledarskap stärker vi vårt varumärke och bli en ännu mer attraktiv arbetsgivare. Genom detta arbete minskar vi systemberoenden, ökar interoperabilitet och säkerställer att verksamhetens data är korrekt, tillgänglig och återanvändbar. 
 
-![bild (1)](https://github.com/user-attachments/assets/525fbe37-8621-461e-bbc9-a6a82e234532)
+![Illustration som beskriver hur gränssnitt högst upp kopplas genom API och förmågor till system längst nere. Snabbrörlighet är viktigt högst upp och trögrörligt är viktigt längst ner.](https://github.com/user-attachments/assets/525fbe37-8621-461e-bbc9-a6a82e234532)
 
 # OneCore - navet i den digitala strategin
 
 Kärnan i vår digitala strategi är plattformen OneCore, en modulär digital plattform baserad på öppen källkod och öppna API:er. I OneCore samlas all data under ett enhetligt gränssnitt och ett samlat API med ett inlogg. Vi har fortfarande en hel del system så som ekonomisystem, ärendehanteringssystem osv men genom att sammankoppla alla dessa i ett gemensamt system så slipper medarbetare växla mellan olika vyer för att få svar på frågor som senaste fakturan, hyresnivåer fastighetsdata, ärenden och hyresgästinformation. Detta skapar en snabbrörlighet för användare och säkerställer samtidigt en enkel väg att byta ut delar av systemet successivt och en tydlighet gällande informationssäkerhet och organisatoriskt ansvar.
 
 
-![bild](https://github.com/user-attachments/assets/ecee26b0-9b12-45c9-adeb-f6408f696bf1)
+![Illustration över de steg som ingår i vår process- 1. Återanvänd -> 2. Open Source -> 3. Upphandla interoperabelt -> 4. Bygg med öppna komponenter och dela på förvaltningskostnaden och risken med andra ](https://github.com/user-attachments/assets/ecee26b0-9b12-45c9-adeb-f6408f696bf1)
 
 
 # Den öppna inköpsprocessen
