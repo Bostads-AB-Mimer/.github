@@ -42,7 +42,7 @@ Vi uppmuntrar alla som är intresserade att följa vår resa och utforskar gärn
 
 Om du vill komma igång är du välkommen att kontakta någon av följande:
 
-david.lindblom@mimer.nu - Produktägare ONECore & Utvecklingschef  Mimer
+david.lindblom@mimer.nu - Utvecklingschef Mimer & Produktägare ONECore,
 
 lina.karfalk@mimer.nu - Projektledare ONECore Mimer
 
